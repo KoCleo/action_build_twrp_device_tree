@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://raw.githubusercontent.com/KoCleo/action_build_twrp_device_tree/main/recovery.img'
+        default: 'https://github.com/KoCleo/action_build_twrp_device_tree/raw/main/recovery.img'
 
 jobs:
   build:
